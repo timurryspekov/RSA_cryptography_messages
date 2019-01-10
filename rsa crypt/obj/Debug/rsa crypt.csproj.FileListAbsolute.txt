@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\rsa crypt\rsa crypt\bin\Debug\rsa crypt.exe
+C:\Users\User\source\repos\rsa crypt\rsa crypt\bin\Debug\rsa crypt.pdb
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\rsa crypt.csprojAssemblyReference.cache
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\App.g.cs
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\rsa crypt_MarkupCompile.cache
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\rsa crypt_MarkupCompile.lref
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\rsa crypt.g.resources
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\rsa_crypt.Properties.Resources.resources
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\rsa crypt.csproj.GenerateResource.cache
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\rsa crypt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\rsa crypt.exe
+C:\Users\User\source\repos\rsa crypt\rsa crypt\obj\Debug\rsa crypt.pdb
